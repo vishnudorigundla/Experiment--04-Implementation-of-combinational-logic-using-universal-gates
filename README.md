@@ -8,9 +8,9 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 ## Equipments Required:
 ## Hardware 
-1.PCs
-2.Cyclone II  
-3.USB flasher
+1.PCs.
+2.Cyclone II . 
+3.USB flasher.
 ## Software 
 Quartus prime
 
@@ -30,8 +30,6 @@ NOR gate is actually a combination of two logic gates: OR gate followed by NOT g
 
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
-## Logic Diagram
-## Procedure
 ## Program:
 
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
